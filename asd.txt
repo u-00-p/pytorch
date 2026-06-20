@@ -1,0 +1,14 @@
+deep learning use cases
+=
+sequence to sequence
+clasification/regression
+
+Que son los tensores?
+=
+Un tensor puede representar lo que sea en numeros
+Es el numerical encoding
+
+La salida de la red neuronal va a ser tensores tambien que se necesitan interpretar
+
+Ver video de que es un tensor de dan feisch
+
